@@ -1,0 +1,13 @@
+<!-- these code should be call back after clicking the sign up button these logo has to open -->
+
+import logo from './logo.svg';
+
+function App() {
+  return (
+    <div className="App">
+      <img src={logo} alt="React logo" />
+    </div>
+  );
+}
+
+export default App;

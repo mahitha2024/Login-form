@@ -1,0 +1,61 @@
+.loginForm {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+.formGroup {
+    margin-bottom: 5px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.loginButton {
+    background-color: #007bff;
+    color: white;
+}
+
+.googleButton {
+    width: 100%;
+    background-color: #d0d2d5;
+    color: rgb(8, 8, 8);
+    text-decoration: none; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    
+
+}
+
+.separator {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.separatorText {
+    background-color: #fff;
+    padding: 0 10px;
+    font-weight: bold;
+}
